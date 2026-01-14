@@ -1,0 +1,18 @@
+# Security: Ignore the env file containing passwords
+.env
+
+# Python generated files
+__pycache__/
+*.pyc
+
+# Virtual Environments
+venv/
+env/
+
+# IDE settings (VS Code, JetBrains)
+.idea/
+.vscode/
+
+# Spark/Java temporary files
+*.class
+*.jar
